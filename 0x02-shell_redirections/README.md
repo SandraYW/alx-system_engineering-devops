@@ -1,0 +1,1 @@
+All of the following files in the directory are scripts:
